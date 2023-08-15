@@ -2,10 +2,13 @@
 
 [English](README.md) | Português
 
-Este projeto tem como foco a análise exploratória de dados (EDA) de conjuntos de dados da COVID-19 com o objetivo de extrair insights. Ele envolve tarefas de limpeza, manipulação, visualização e interpretação dos dados.
+Bem-vindo ao projeto que aborda a análise exploratória de dados (EDA) sobre tiroteios fatais pela polícia nos EUA entre os anos de 2015 e 2020. Nosso objetivo é extrair insights valiosos dos dados por meio de uma limpeza cuidadosa, manipulação e interpretação.
 
-## Fontes de Dados
-Utilizaremos os conjuntos de dados "COVID DEATHS.csv" e "COVID VACCINATIONS.csv," que contêm informações sobre a COVID-19 em diferentes regiões ao longo do tempo. Os conjuntos de dados estão disponíveis on [Kaggle](https://www.kaggle.com/datasets/tohidkhanbagani/covid-19-deaths-and-vaccinations-dataset?select=COVID+DEATHS.csv) no Kaggle.
+#### Fontes de Dados
+Vamos utilizar o conjunto de dados "fatal-police-shootings-data.csv", uma coleção abrangente de pontos de dados relacionados a tiroteios fatais pela polícia. Os conjuntos de dados estão disponíveis no [Kaggle](https://www.kaggle.com/datasets/tohidkhanbagani/covid-19-deaths-and-vaccinations-dataset?select=COVID+DEATHS.csv).
 
-## Abordagem
-Para a manipulação dos dados, faremos uso das bibliotecas `Pandas` e `Numpy`, enquanto para a visualização, utilizaremos as bibliotecas `Seaborn/Matplotlib`.
+#### Abordagem
+Nossa abordagem envolve o uso da biblioteca `Pandas` e `SQL` (PostgreSQL). Essa combinação de ferramentas nos permite navegar e processar efetivamente o conjunto de dados.
+
+## Explore a Análise
+Para uma rápida olhada na análise, fique à vontade para navegar no [Projeto](/EDA-Fatal_Police_Shootings_USA.ipynb). Este notebook oferece uma visão em primeira mão das etapas que tomamos para descobrir insights e tendências nos tiroteios fatais pela polícia nos EUA.
